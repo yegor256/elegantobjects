@@ -1,8 +1,9 @@
-all: a.out
+all: run_me
+	./run_me
 
-a.out: main.cpp
-	g++ main.cpp
+run_me: main.cpp test.cpp
+	g++ -o run_me test.cpp
 
 clean:
-	rm -rf a.out
+	rm -rf run_me
 
