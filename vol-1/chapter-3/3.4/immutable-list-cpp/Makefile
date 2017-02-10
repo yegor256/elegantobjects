@@ -1,8 +1,8 @@
-all: main
+all: a.out
 
-main: main.cpp
-	g++ -o main main.cpp
+a.out: main.cpp
+	g++ main.cpp
 
 clean:
-	rm -rf main
+	rm -rf a.out
 
