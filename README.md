@@ -1,4 +1,4 @@
-<img src="https://rawgithub.com/yegor256/elegantobjects/master/cactus.svg"/>
+<img src="https://rawgithub.com/yegor256/elegantobjects/master/cactus.svg" height="100px"/>
 
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/yegor256/takes/blob/master/LICENSE.txt)
 
