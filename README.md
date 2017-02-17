@@ -1,4 +1,4 @@
-<a href="/cactus.svg"/>
+<img src="/cactus.svg"/>
 
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/yegor256/takes/blob/master/LICENSE.txt)
 
