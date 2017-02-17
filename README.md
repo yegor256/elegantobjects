@@ -60,7 +60,7 @@ vol.2.
 
   * Typo in preface: `thew` replaced with `threw`.
 
-**v1.2** published.
+8/20 **v1.2** published.
 
 8/3 [`71eeb7d`](https://github.com/zerocracy/books/commit/71eeb7d769ae99499826a1105129a92f238c6774):
 
@@ -79,6 +79,8 @@ vol.2.
     `Text t = new Text("/tmp/test.txt")` replaced with
     `Text t("/tmp/test.txt")`.
 
+5/25 **v1.1** published.
+
 5/17 [`38f1ca8`](https://github.com/zerocracy/books/commit/38f1ca803545b26e7ebbf8dbe94efba4d1add943):
 
   * Broken section reference in Section 1.2 fixed.
@@ -86,8 +88,6 @@ vol.2.
 4/20 [`9b245d0`](https://github.com/zerocracy/books/commit/9b245d0bab875b598a4697324176ac6a3880459b):
 
   * Spelling mistakes fixed and introduced automated spell checking.
-
-**v1.1** published.
 
 2/22/2016 **v1.0** published.
 
