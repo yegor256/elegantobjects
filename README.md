@@ -20,7 +20,7 @@ vol.2.
 
 **1.2**:
 
-https://github.com/zerocracy/books/commit/6f69b545fac8db24dc8e7cc0e6a330ee95f454e8 (thanks to Ilya Vassilevsky):
+zerocracy/books@6f69b545fac8db24dc8e7cc0e6a330ee95f454e8 (thanks to Ilya Vassilevsky):
 
   * Semi-colon removed from Ruby code in Section 1.1
   * Type in Section 1.3, `Code` replaced with `Cash`
