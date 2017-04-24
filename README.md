@@ -10,6 +10,10 @@ vol.2.
 
 ## Changelog
 
+4/21 (thanks to John Page): multiple small typos
+
+4/18/2017 **v1.4** published (with Vol.2).
+
 2/10 [`20cfbf9`](https://github.com/zerocracy/books/commit/20cfbf95184f4a83d07c1fc662d3f4ec2b306017) (thanks to Andrey Valyaev)
 
   * The entire C++ example in Section 3.4 to the one you can
