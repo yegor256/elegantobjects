@@ -10,6 +10,10 @@ both
 
 ## Changelog
 
+5/7 [`4c94462b3`](https://github.com/zerocracy/books/commit/4c94462b3) (thanks to Krzysztof Szafrański)
+
+  * Foot note about inevitable recursion in Fibo example
+
 4/21 (thanks to John Page): multiple small typos
 
 4/18/2017 **v1.4** published (with Vol.2).
