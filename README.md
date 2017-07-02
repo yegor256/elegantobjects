@@ -10,6 +10,10 @@ both
 
 ## Changelog
 
+7/2 [`7df68b002`](https://github.com/zerocracy/books/commit/7df68b002) (thanks to Christian Köstlin)
+
+  * "a Factory Pattern" replaced with "the Factory Pattern"
+
 5/7 [`4c94462b3`](https://github.com/zerocracy/books/commit/4c94462b3) (thanks to Krzysztof Szafrański)
 
   * Foot note about inevitable recursion in Fibo example
