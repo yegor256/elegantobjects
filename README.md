@@ -13,6 +13,8 @@ both
 7/2 [`7df68b002`](https://github.com/zerocracy/books/commit/7df68b002) (thanks to Christian Köstlin)
 
   * "a Factory Pattern" replaced with "the Factory Pattern"
+  * "CRLF" renamed to "EOL" in Section 2.5
+  * "synchronized(this.dollars)" replaced with "synchronized(this)" in Section 2.6.6
 
 5/7 [`4c94462b3`](https://github.com/zerocracy/books/commit/4c94462b3) (thanks to Krzysztof Szafrański)
 
