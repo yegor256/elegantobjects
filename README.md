@@ -10,6 +10,10 @@ both
 
 ## Changelog
 
+7/9 [`af90e7f01`]() (thanks to Mauricio Togneri)
+
+  * new champion: `android.view.View` into Vol.2
+
 7/2 [`7df68b002`](https://github.com/zerocracy/books/commit/7df68b002) (thanks to Christian Köstlin)
 
   * "a Factory Pattern" replaced with "the Factory Pattern"
