@@ -10,7 +10,14 @@ both
 
 ## Changelog
 
-7/9 [`af90e7f01`]() (thanks to Mauricio Togneri)
+8/13 [`e54ef498a`](https://github.com/zerocracy/books/commit/e54ef498a) (thanks to Janez Kuhar)
+
+  * typo in Section 2.3: `multiplicand` replaced with `factor`
+  * typo in Section 2.3: "objects of classes" instead of "classes"
+  * Assembly code in Section 3.2.1 is fixed, it was not correct before
+  * `32db197` reverted, we do need `return` there!
+
+7/9 [`af90e7f01`](https://github.com/zerocracy/books/commit/af90e7f01) (thanks to Mauricio Togneri)
 
   * new champion: `android.view.View` into Vol.2
 
